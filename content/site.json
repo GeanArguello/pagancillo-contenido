@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "siteName": "Descubrí Pagancillo",
-  "locationLabel": "Pagancillo · La Rioja · Argentina",
+  "siteName": "Pagancillo",
+  "locationLabel": "La Rioja · Argentina",
   "hero": {
     "eyebrow": "Naturaleza · Cultura · Gente",
     "title": "Tu viaje empieza en Pagancillo",
-    "description": "Una guía para descubrir el pueblo y planificar recorridos por el oeste riojano.",
+    "description": "Una guía para descubrir el pueblo y planificar recorridos por el Valle del Bermejo.",
     "image": "/images/talampaya-panorama.jpg",
     "imageAlt": "Paisaje del Parque Nacional Talampaya, atractivo cercano a Pagancillo",
     "imageCaption": "Parque Nacional Talampaya, en la región de Pagancillo"
@@ -17,7 +17,7 @@
       "El contenido de este repositorio es demostrativo. Reemplazá cada ficha de ejemplo por información confirmada antes de publicarla como guía real."
     ]
   },
-  "announcement": "Sitio de demostración: alojamientos, comercios, actividades y eventos pueden ser ficticios.",
+  "announcement": "",
   "featuredPlaceSlugs": ["talampaya", "cuesta-de-miranda", "pagancillo-viejo"],
   "categoryLinks": [
     {"label": "Lugares", "href": "/explorar?categoria=lugares", "description": "Paisajes e historia"},
