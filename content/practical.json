@@ -1,0 +1,16 @@
+{
+  "howToGetThere": {
+    "title": "Cómo llegar",
+    "intro": "Pagancillo está en el oeste de la provincia de La Rioja. Confirmá rutas, accesos y transporte antes de viajar.",
+    "routes": [],
+    "transportOptions": [],
+    "mapCenter": null
+  },
+  "recommendations": [
+    {"id":"weather","title":"Consultá el tiempo","body":"Revisá el pronóstico antes de organizar actividades al aire libre."},
+    {"id":"access","title":"Verificá accesos","body":"Consultá fuentes oficiales para conocer el estado de rutas y servicios."}
+  ],
+  "touristOffice": null,
+  "usefulContacts": [],
+  "demo": true
+}
