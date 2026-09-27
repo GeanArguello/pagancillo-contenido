@@ -1,0 +1,5 @@
+[
+  {"id":"faq-content","question":"¿La información de esta guía ya está confirmada?","answer":"Este repositorio contiene datos de demostración. Las fichas marcadas como ejemplo ficticio deben reemplazarse antes de usar la web como guía real."},
+  {"id":"faq-talampaya","question":"¿Dónde consulto horarios y entradas para Talampaya?","answer":"Usá los canales oficiales del Parque Nacional Talampaya antes de viajar. Los horarios y valores pueden cambiar."},
+  {"id":"faq-map","question":"¿Por qué algunas fichas no aparecen en el mapa?","answer":"Solo se muestran puntos con coordenadas cargadas. En este ejemplo todavía no se incluyeron coordenadas verificadas."}
+]
